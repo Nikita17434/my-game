@@ -3,3 +3,17 @@
   margin: 5px;
   padding: 5px;
 }
+.form {
+    width:700px;
+    margin:20px;
+}
+.form > div {
+    margin:20px;
+}
+.form > input {
+    margin:20px;
+}
+.form > button {
+    margin:20px;
+    width:100px;
+}
